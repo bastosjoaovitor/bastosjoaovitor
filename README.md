@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Vitor+Bastos;I'm+16+years+old;I+am+from+MG,+Brasil;I+am+self-taught+in+programming;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-### Hi there 👋
-
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bastosjoaovitor&show_icons=true&theme=radical&rank_icon=github&line_height=35)
 
@@ -30,16 +28,16 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&la
 
 <br>
 
+#
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastosjoaovitor&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align=center>
   <img src="https://github-profile-trophy.vercel.app/?username=MatheusAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-### Social Media:
+## Social Media:
 
-<a href="https://www.instagram.com/joaovitor.bastos.948/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-
-<a href="www.linkedin.com/in/joão-vitor-bastos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<p><a href="https://www.instagram.com/joaovitor.bastos.948/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="www.linkedin.com/in/joão-vitor-bastos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
