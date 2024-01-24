@@ -2,25 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Vitor+Bastos;I'm+16+years+old;I+am+from+MG,+Brasil;I+am+self-taught+in+programming;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bastosjoaovitor&show_icons=true&theme=radical&rank_icon=github&line_height=35)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bastosjoaovitor)](https://github.com/anuraghazra/github-readme-stats)
-
-https://github.com/anuraghazra/github-readme-stats
-
-https://github.com/anuraghazra/convoychat
-
-<a href="https://github.com/bastosjoaovitor">
-  <img width=49% height=200px align="center" src="https://github-readme-stats.vercel.app/api?username=bastosjoaovitor&show_icons=true&theme=radical&rank_icon=github&line_height=35" />
-</a>
-<a href="https://github.com/bastosjoaovitor">
-  <img width=49% height=200px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastosjoaovitor&layout=compact" />
-</a>
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117
--->
-
 <div align=center>
   <img width=49% height=200px align="center" src="https://github-readme-stats.vercel.app/api?username=bastosjoaovitor&show_icons=true&theme=radical&rank_icon=github&line_height=35" />
   <img width=49% height=200px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastosjoaovitor&layout=compact&text_color=A9FEF7&bg_color=141321" />
@@ -31,10 +12,6 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&la
 #
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastosjoaovitor&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=MatheusAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 #
 
