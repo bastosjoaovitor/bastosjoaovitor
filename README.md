@@ -15,8 +15,8 @@ https://github.com/anuraghazra/convoychat
 -->
 
 <a href="https://github.com/bastosjoaovitor">
-  <img width=45% height=200px align="center" src="https://github-readme-stats.vercel.app/api?username=bastosjoaovitor&show_icons=true&theme=radical&rank_icon=github&line_height=35" />
+  <img width=49% height=200px align="center" src="https://github-readme-stats.vercel.app/api?username=bastosjoaovitor&show_icons=true&theme=radical&rank_icon=github&line_height=35" />
 </a>
 <a href="https://github.com/bastosjoaovitor">
-  <img width=45% height=200px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastosjoaovitor&layout=compact" />
+  <img width=49% height=200px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastosjoaovitor&layout=compact" />
 </a>
