@@ -20,9 +20,10 @@ https://github.com/anuraghazra/convoychat
   <img width=49% height=200px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastosjoaovitor&layout=compact" />
 </a>
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117
 -->
 
 <div align=center>
-  <img width=49% height=200px align="center" src="https://github-readme-stats.vercel.app/api?username=bastosjoaovitor&show_icons=true&theme=radical&rank_icon=github&line_height=35" />
-  <img width=49% height=200px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastosjoaovitor&layout=compact" />
+  <img width=49% height=220px align="center" src="https://github-readme-stats.vercel.app/api?username=bastosjoaovitor&show_icons=true&theme=radical&rank_icon=github&line_height=35" />
+  <img width=49% height=220px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastosjoaovitor&layout=compact&text_color=A9FEF7&bg_color=141321" />
 </div>
