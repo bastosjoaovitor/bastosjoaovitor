@@ -41,12 +41,12 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&la
 ### Skills:
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
-  <img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF"></img>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="90px" style="padding: 50px;"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="90px" style="padding: 50px;"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="90px" style="padding: 50px;"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="90px" style="padding: 50px;"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="90px" style="padding: 50px;"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" width="90px" style="padding: 50px;"/> &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ### Social Media:
