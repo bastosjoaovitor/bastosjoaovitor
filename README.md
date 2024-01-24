@@ -27,3 +27,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&la
   <img width=49% height=200px align="center" src="https://github-readme-stats.vercel.app/api?username=bastosjoaovitor&show_icons=true&theme=radical&rank_icon=github&line_height=35" />
   <img width=49% height=200px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastosjoaovitor&layout=compact&text_color=A9FEF7&bg_color=141321" />
 </div>
+
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastosjoaovitor&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
