@@ -40,4 +40,6 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&la
 
 <a href="https://www.instagram.com/joaovitor.bastos.948/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
+<a href="www.linkedin.com/in/joão-vitor-bastos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
