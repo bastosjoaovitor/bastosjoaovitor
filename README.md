@@ -23,7 +23,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="90px" style="padding: 50px;"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="90px" style="padding: 50px;"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="90px" style="padding: 50px;"/> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://icongr.am/devicon/github-original.svg?size=128&color=86888b" width="90px" style="padding: 50px;"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://icongr.am/devicon/github-original.svg?size=128&color=bdbdbd" width="90px" style="padding: 50px;"/> &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ### Social Media:
